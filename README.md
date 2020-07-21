@@ -17,7 +17,7 @@ Datasets to be used:
   https://www.kaggle.com/cmenca/new-york-times-hardcover-fiction-best-sellers
  
 Rough Breakdown of Tasks:
-    The technical requirements for Project 1 are as follows.
+    The technical requirements for Project 1 are as follows:
 
 
          Use Pandas to clean and format your data set(s): Helena
