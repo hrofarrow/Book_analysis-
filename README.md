@@ -35,5 +35,5 @@ Rough Breakdown of Tasks:
          Create a Jupyter Notebook illustrating the final data analysis: Everyone - broken down by question
 
 
-         Create a write-up summarizing your major findings. This should include a heading for each "question" you asked of your data, and under each heading, a              short description of what you found and any relevant plots.: Everyone submits information - Jackson and Molly create the formal writeup. 
+         Create a write-up summarizing your major findings. This should include a heading for each "question" you asked of your data, and under each heading, a              short description of what you found and any relevant plots: Everyone submits information - Jackson and Molly create the formal writeup. 
   
