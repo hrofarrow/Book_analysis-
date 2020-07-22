@@ -11,8 +11,8 @@ Research Questions:
   1. Does the number of pages of a book effect the number of the votes that the book recieves? - Molly 
   2. Is there a publisher that publishes most books or most popular books? 
   3. Does the amount of votes affect the overall rating of the book? - Catherine 
-  4. Do some publishers produce more expensive books? does more pages = more expensive? 
-  5. Do some publishers publish their books during a specific time of the year? 
+  4. Do some publishers produce more expensive books? does more pages = more expensive? - Helena 
+  5. Do some publishers publish their books during a specific time of the year? - Jackson 
   
 Datasets to be used: 
   CSV Files 
