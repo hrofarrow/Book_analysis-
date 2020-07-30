@@ -21,14 +21,17 @@
 
 - **Hypthesis** - If a given publisher publishes more books, then their published books will have a higher price.
 - **Results** - When looking at the top ten publishers, there was a slight positive correlation between number of books published per publisher, and average price per publisher. However, when looking at all publishers, there seemed to be no consistent relationship between the two. 
-- ![header image](https://github.com/mko9719/Screen-Shots/blob/master/Screenshot%20(48).png)
+- chttps://github.com/mko9719/Screen-Shots/blob/master/Screenshot%20(48).png)
 
 # Hypthesis #4 - Page Count vs. Price
 
 - **Hypothesis** - If the number of pages of a book affects the book price then books with a higher page count will have a higher price
 - **Results** - There was a slight positive correlation between page count and price. 
+- ![header image](https://github.com/mko9719/Screen-Shots/blob/master/Screenshot%20(50).png)
 
 # Hypothesis #5 - Season Published vs. Price
 
 - **Hypothesis** - If a book is published in a specific season, then its popularity and price will not be higher than other months.
 - **Results** - Popularity and price had no correlation to the season published. However, number of books produced was correlated to the season published. 
+- ![header image](https://github.com/mko9719/Screen-Shots/blob/master/Screenshot%20(52).png)
+- ![header image](https://github.com/mko9719/Screen-Shots/blob/master/Screenshot%20(54).png)
