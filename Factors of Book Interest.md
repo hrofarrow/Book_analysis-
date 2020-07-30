@@ -28,4 +28,4 @@
 # Hypothesis #5 - Season Published vs. Price
 
 - **Hypothesis** - If a book is published in a specific season, then its popularity and price will not be higher than other months.
-- **Results** - 
+- **Results** - Popularity and price had no correlation to the season published. However, number of books produced was correlated to the season published. 
