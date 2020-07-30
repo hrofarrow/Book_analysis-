@@ -15,6 +15,7 @@
 - **Hypothesis** - If a book has more ratings, the average rating will be less extreme and have a lower standard deviation.
 - **Results** - Ratings trended towards a more neutral and less volatile outcome as number of votes increased
 - ![header image](https://github.com/mko9719/Screen-Shots/blob/master/Screenshot%20(44).png)
+- ![header image](https://github.com/mko9719/Screen-Shots/blob/master/Screenshot%20(46).png)
 
 # Hypothesis #3 - Publisher vs. Average Price
 
