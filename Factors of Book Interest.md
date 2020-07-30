@@ -8,8 +8,7 @@
 
   - **Hypothesis** - Page Count will have an inverse relationship with both voter count and rating
   - **Results** - Page Count had an inverse relationsihp with voter count, but a slight positive relationship with rating. Overall, however, page count did not seem to have a large effect on either variable. 
-  - https://github.com/hrofarrow/Book_analysis-/blob/master/Screenshot%20(41).png
-  - https://drive.google.com/drive/u/0/my-drive
+- https://dochub.com/realtech9719/7vA0q9lw2j0olWYwPDNOxd/screenshot-41-png
 
 # Hypothesis #2 - Voter Count vs. Rating
 
