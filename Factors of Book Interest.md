@@ -21,7 +21,7 @@
 
 - **Hypthesis** - If a given publisher publishes more books, then their published books will have a higher price.
 - **Results** - When looking at the top ten publishers, there was a slight positive correlation between number of books published per publisher, and average price per publisher. However, when looking at all publishers, there seemed to be no consistent relationship between the two. 
-- chttps://github.com/mko9719/Screen-Shots/blob/master/Screenshot%20(48).png)
+- ![header image](https://github.com/mko9719/Screen-Shots/blob/master/Screenshot%20(48).png)
 
 # Hypthesis #4 - Page Count vs. Price
 
